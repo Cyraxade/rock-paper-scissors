@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    text-transform:uppercase ;
+    font-weight: bold;
+}
+.title{
+    font-size: 20px;
+    text-transform:uppercase ;
+    font-weight: bold;   
+}
+.btn1{
+    border:3px solid white;
+    background-color: transparent;
+    border-radius: 50%;
+    width: 200px; 
+    height: 200px;
+    /* padding: 25px; */
+    margin-right: 20px;
+    cursor: pointer;
+}
+.btn2{
+    border:3px solid white;
+    background-color: transparent;
+    border-radius: 50%;
+    width:200px;
+    height: 200px;
+    /* padding: 25px; */
+    margin-right: 20px;
+    cursor: pointer;
+}
+.btn3{
+     border:3px solid white;
+    background-color: transparent;
+    border-color:white ;
+    border-radius: 50%;
+    width:200px;
+    height: 200px;
+    padding: 25px;
+    cursor: pointer;
+}
+.btn4,.autoplay-btn{
+    padding: 10px 13px;
+    text-transform: capitalize;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.move-icon{
+    width:  90px;
+    background-color: black;
+}
+
+#display{
+    font-size: 20px;
+    text-transform:uppercase ;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
